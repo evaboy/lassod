@@ -24,7 +24,7 @@ class MyHomePage extends StatelessWidget {
                             gradient: LinearGradient(
                                 begin: Alignment.topCenter,
                                 end: Alignment.bottomCenter,
-                                stops: [0.90, 1.0],
+                                stops: [0.30, 1.0],
                                 tileMode: TileMode.clamp,
                                 colors: [Color(0xFFFFB56B),Color(0xFFFF587D)]
                             ),
@@ -55,7 +55,7 @@ class MyHomePage extends StatelessWidget {
                             gradient: LinearGradient(
                                 begin: Alignment.topCenter,
                                 end: Alignment.bottomCenter,
-                                stops: [0.0, 1.0],
+                                stops: [0.30, 1.0],
                                 tileMode: TileMode.clamp,
                                 colors: [Color(0xFFFFB56B),Color(0xFFFF587D)]
                             ),
